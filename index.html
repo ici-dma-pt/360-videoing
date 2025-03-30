@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>360 Videoing</title>
+    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <video
+          id="video360"
+          src="assets/videos/1/seaside.mp4"
+          autoplay
+          loop
+          muted
+          playsinline
+          crossorigin="anonymous">
+        </video>
+      </a-assets>
+
+      <a-videosphere src="#video360" rotation="0 -90 0"></a-videosphere>
+    </a-scene>
+  </body>
+</html>
