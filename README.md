@@ -1,0 +1,5 @@
+# 360 Videoing
+
+A 360 video is a special kind of movie that lets you look all around while it plays — not just straight ahead, but behind you, above you, and all around, just like real life. When you watch a 360 video with a phone or VR headset, it feels like you're standing right in the middle of the scene. You can look around while the video keeps going, like you're really there with the people or places in the video.
+
+To make a 360 video, people use special cameras that can film in every direction at once, or they use a computer to stitch together lots of video clips into one big circle-shaped view. These videos are saved in a way that wraps the whole scene around you, like you’re inside a bubble. When you play it back in VR, it’s like stepping into the video instead of just watching it on a screen.
